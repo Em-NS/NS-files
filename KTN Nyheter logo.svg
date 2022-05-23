@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="715"
+   height="150"
+   viewBox="0 0 189.17708 39.687499"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="KTN Nyheter logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#8b8b8b"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.99937756"
+     inkscape:cx="358.72328"
+     inkscape:cy="275.67159"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:pagecheckerboard="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-47.909487,-262.87174)">
+    <g
+       transform="matrix(0.84609991,0,0,0.84609991,-3.6907304,-4.2439109)"
+       id="g5162"
+       style="fill:#555555;fill-opacity:1">
+      <path
+         style="fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 106.5718,358.69979 -1e-5,-18.70888 -4.74432,-4.74432 10e-6,18.70888 -18.708881,-10e-6 4.74432,4.74432 z"
+         id="path5013-6-5-6"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5191"
+       d="m 54.020744,266.17903 v 26.45834 H 59.31241 V 279.4082 l 13.229183,13.22917 h 6.709482 L 66.021889,279.4082 79.251075,266.17903 H 72.541591 L 59.31241,279.4082 v -13.22917 z"
+       style="fill:#0b60ad;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       aria-label="NYHETER"
+       id="text3305"
+       style="font-weight:bold;font-size:34.3169px;line-height:1.25;font-family:'Adobe Heiti Std';-inkscape-font-specification:'Adobe Heiti Std Bold';stroke-width:0.036123"
+       transform="translate(-97.537321,-30.353056)">
+      <path
+         d="m 206.44759,296.73799 h -3.67191 v 9.67737 c 0,4.18666 0.10295,7.54971 0.4118,11.11867 l -0.10295,0.0343 c -1.13246,-2.77967 -2.60808,-5.79956 -4.25529,-8.68218 l -6.86338,-12.14818 h -4.32393 v 26.25243 h 3.67191 v -9.81464 c 0,-4.59846 -0.0686,-7.99583 -0.27454,-11.32457 l 0.13727,-0.0343 c 1.20109,2.95125 2.77967,6.03978 4.35824,8.88808 l 6.8977,12.28545 h 4.01508 z"
+         id="path8587" />
+      <path
+         d="m 224.94434,296.73799 -3.12284,6.82906 c -0.85792,1.95607 -1.64721,3.70623 -2.29923,5.45639 h -0.0686 c -0.68633,-1.85311 -1.44131,-3.50032 -2.29923,-5.42207 l -3.08852,-6.86338 h -4.49551 l 7.7213,15.27102 v 10.98141 h 3.98076 v -11.08436 l 8.1331,-15.16807 z"
+         id="path8589" />
+      <path
+         d="m 250.8879,296.70367 h -3.98076 v 10.84414 h -10.70688 v -10.84414 h -3.98076 v 26.28675 h 3.98076 v -11.94228 h 10.70688 v 11.94228 h 3.98076 z"
+         id="path8591" />
+      <path
+         d="m 270.6544,319.66168 h -10.32939 v -8.71649 h 9.19693 v -3.29443 h -9.19693 v -7.58403 h 9.746 v -3.32874 h -13.72676 v 26.25243 h 14.31015 z"
+         id="path8593" />
+      <path
+         d="m 290.31798,296.73799 h -18.15364 v 3.39737 h 7.06928 v 22.85506 h 3.98076 v -22.85506 h 7.1036 z"
+         id="path8595" />
+      <path
+         d="m 307.57933,319.66168 h -10.32939 v -8.71649 h 9.19693 v -3.29443 h -9.19693 v -7.58403 h 9.746 v -3.32874 h -13.72676 v 26.25243 h 14.31015 z"
+         id="path8597" />
+      <path
+         d="m 322.88466,310.43043 c 2.6424,-0.99519 4.70141,-3.29442 4.70141,-6.65748 0,-2.12764 -0.72065,-3.94644 -2.09333,-5.14753 -1.64721,-1.47563 -4.04939,-2.09333 -7.48108,-2.09333 -2.36787,0 -4.70142,0.24022 -6.38295,0.54907 v 25.90926 h 3.94645 v -11.11868 h 2.40218 c 2.77967,0 4.04939,1.33836 4.77005,4.83869 0.65202,3.22578 1.26972,5.52502 1.64721,6.27999 h 4.11803 c -0.51476,-0.99519 -1.16678,-3.70623 -1.95607,-7.13792 -0.6177,-2.77967 -1.71584,-4.63278 -3.6719,-5.35343 z m -7.3095,-1.54426 v -9.02534 c 0.48043,-0.13727 1.44131,-0.24022 2.77967,-0.24022 2.8483,0 5.25048,1.16677 5.25048,4.56415 0,2.81398 -2.05901,4.70141 -5.35343,4.70141 z"
+         id="path8599" />
+    </g>
+  </g>
+</svg>
