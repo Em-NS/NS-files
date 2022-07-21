@@ -4,38 +4,10 @@
    width="360"
    height="360"
    id="svg2110"
-   sodipodi:docname="4th Valkyrian Parliament.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs2114" />
-  <sodipodi:namedview
-     id="namedview2112"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="1"
-     inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="false"
-     showgrid="false"
-     borderlayer="true"
-     inkscape:showpageshadow="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:zoom="1.163493"
-     inkscape:cx="129.35187"
-     inkscape:cy="155.99578"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2110" />
   <!-- Created with the Wikimedia parliament diagram creator (http://parliamentdiagram.toolforge.org/parliamentinputform.html) -->
   <g
      id="g9961"
@@ -45,7 +17,7 @@
        transform="translate(0,-5.0211266)">
       <g
          style="fill:#990000;stroke:#000000;stroke-width:0"
-         id="0_Kommunistparti"
+         id="Kommunistparti"
          transform="rotate(-90,180.00001,93.059999)">
         <title
            id="title1472">Kommunistparti</title>
@@ -82,7 +54,7 @@
       </g>
       <g
          style="fill:#d82628;stroke:#000000;stroke-width:0"
-         id="1_Sosialistisk-Parti"
+         id="Sosialistisk-Parti"
          transform="rotate(-90,180.00001,93.059999)">
         <title
            id="title1487">Sosialistisk Parti</title>
@@ -754,7 +726,7 @@
       </g>
       <g
          style="fill:#e06666;stroke:#000000;stroke-width:0"
-         id="2_Arbeiderpartiet"
+         id="Arbeiderpartiet"
          transform="rotate(-90,180.00001,93.059999)">
         <title
            id="title1756">Arbeiderpartiet</title>
@@ -1246,7 +1218,7 @@
       </g>
       <g
          style="fill:#ff1493;stroke:#000000;stroke-width:0"
-         id="3_Populistisk-Venstre"
+         id="Populistisk-Venstre"
          transform="rotate(-90,180.00001,93.059999)">
         <title
            id="title1953">Populistisk Venstre</title>
@@ -1637,7 +1609,7 @@
        transform="rotate(90,270.60262,178.64149)">
       <g
          style="fill:#ff1493;stroke:#000000;stroke-width:0"
-         id="0_Populistisk-Venstre">
+         id="Populistisk-Venstre-2">
         <title
            id="title2937">Populistisk Venstre</title>
         <circle
@@ -1668,7 +1640,7 @@
       </g>
       <g
          style="fill:#000000;stroke:#000000;stroke-width:0"
-         id="1_Piratpartiet">
+         id="Piratpartiet">
         <title
            id="title2950">Piratpartiet</title>
         <circle
@@ -1819,7 +1791,7 @@
       </g>
       <g
          style="fill:#17aa5c;stroke:#000000;stroke-width:0"
-         id="2_De-Gronne">
+         id="De-Gronne">
         <title
            id="title3011">De Gronne</title>
         <circle
@@ -1950,7 +1922,7 @@
       </g>
       <g
          style="fill:#ffd700;stroke:#000000;stroke-width:0"
-         id="3_Venstre">
+         id="Venstre">
         <title
            id="title3064">Venstre</title>
         <circle
@@ -2041,7 +2013,7 @@
       </g>
       <g
          style="fill:#40e0d0;stroke:#000000;stroke-width:0"
-         id="4_Winstonian-Interesser">
+         id="Winstonian-Interesser">
         <title
            id="title3101">Winstonian Interesser</title>
         <circle
@@ -2062,7 +2034,7 @@
       </g>
       <g
          style="fill:#ff7f00;stroke:#000000;stroke-width:0"
-         id="5_Sentrist-Demokratisk-Parti">
+         id="Sentrist-Demokratisk-Parti">
         <title
            id="title3110">Sentrist Demokratisk Parti</title>
         <circle
@@ -2403,7 +2375,7 @@
       </g>
       <g
          style="fill:#3a5fcd;stroke:#000000;stroke-width:0"
-         id="6_Forente-Hoyre">
+         id="Forente-Hoyre">
         <title
            id="title3247">Forente Hoyre</title>
         <circle
@@ -2854,7 +2826,7 @@
       </g>
       <g
          style="fill:#032747;stroke:#000000;stroke-width:0"
-         id="7_Den-Nye-Hoyre">
+         id="Den-Nye-Hoyre">
         <title
            id="title3428">Den Nye Hoyre</title>
         <circle
@@ -3150,7 +3122,7 @@
       </g>
       <g
          style="fill:#009fe1;stroke:#000000;stroke-width:0"
-         id="8_Nordpartiet">
+         id="Nordpartiet">
         <title
            id="title3547">Nordpartiet</title>
         <circle
