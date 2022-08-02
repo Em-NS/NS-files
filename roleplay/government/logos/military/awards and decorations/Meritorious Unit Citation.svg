@@ -11,22 +11,15 @@
      id="layer1"
      transform="translate(-313.37321,-68.284696)">
     <rect
-       style="fill:#0b60ad;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect2716"
        width="51.593662"
        height="13.229071"
        x="314.0347"
        y="68.946205" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1568"
-       width="48.947895"
-       height="10.583311"
-       x="315.3576"
-       y="70.269081" />
     <path
        id="rect1200"
-       style="fill:none;stroke:#000000;stroke-width:1.32301;stroke-opacity:1"
+       style="fill:none;stroke:#daa638;stroke-width:1.32301;stroke-opacity:1"
        d="m 314.03471,68.946203 h 51.59366 v 13.229071 h -51.59366 z" />
     <text
        xml:space="preserve"
@@ -35,20 +28,12 @@
        y="76.215118"
        id="text4363"><tspan
          id="tspan4361"
-         style="stroke-width:0.264583"></tspan></text>
-    <g
-       id="layer1-8"
-       transform="matrix(0.13138465,0,0,0.13138465,337.20385,71.646409)"
-       style="stroke:#ffffff;stroke-opacity:1">
-      <path
-         d="M 1,1 20,20 39,1"
-         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path5127" />
-      <path
-         d="M 20,0 V 60"
-         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path5129" />
-    </g>
+         style="stroke-width:0.264583" /></text>
+    <polygon
+       points="151,75 151,3 106,3 106,75 35,3 3,37 106,139 106,283 151,284 151,140 254,37 222,5 "
+       id="polygon1616"
+       transform="matrix(0.02824733,0,0,0.02824733,336.20176,71.507246)"
+       style="fill:#daa638;fill-opacity:1" />
     <g
        id="g2937"
        style="fill:#000000;fill-opacity:0.35023"
